@@ -1,2 +1,3 @@
 # practicoJS
-Curso practico JavaScript de platzi
+##Curso practico JavaScript de platzi
+
