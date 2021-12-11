@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    background-color: #FCFFA6;
+    font-family:  'Merienda', cursive;
+}
+
+header{
+    margin: 0px;
+    padding: 5px;
+    background-image: url(https://images.pexels.com/photos/8593815/pexels-photo-8593815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+    background-repeat:round;
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+}
+.Contenedor{
+    display: flex;
+    justify-content: center; /*Horizontal*/
+    align-items: center;
+    height: 500px;
+    margin: auto;
+    width: 80%;
+}
+
+.contenedorCu{
+    margin: 10px;
+    padding: 10px;
+    background-color: #C1FFD7;
+    border-radius: 25px;
+    border: 2px solid #96ecb4;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 80%;
+}
+
+.contenedorT{
+    margin: 10px;
+    padding: 10px;
+    background-color: #B5DEFF;
+    border-radius: 25px;
+    border: 2px solid #7ab1dd;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 90%;
+}
+
+.contenedorC{
+    margin: 10px;
+    padding: 10px;
+    background-color: #CAB8FF;
+    border-radius: 25px;
+    border: 2px solid #a288f1;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 80%;
+}
